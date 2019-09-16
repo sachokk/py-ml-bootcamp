@@ -1,2 +1,2 @@
-# py-ml-bootcamp
-python ML 
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
